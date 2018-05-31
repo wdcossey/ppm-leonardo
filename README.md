@@ -6,4 +6,4 @@ This sketch requires nothing other than:
 2. Arduino Leonardo/Pro Micro (ATmega32u4 microcontroller).
 
 
-There's no need for any software or virtual joysticks as it's all controlled by the microcontroller.
+There's **no** need for any software or virtual joysticks as it's all controlled by the microcontroller.
